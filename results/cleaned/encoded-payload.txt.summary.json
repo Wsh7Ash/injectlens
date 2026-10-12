@@ -1,0 +1,1 @@
+{"file": "examples/corpus/encoded-payload.txt", "output": "results/cleaned/encoded-payload.txt", "removed_or_normalized": {"bidi": 0, "entities": 0, "tags": 0, "zero_width": 0}}

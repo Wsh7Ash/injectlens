@@ -1,0 +1,4 @@
+=== Summary ===
+files scanned: 1
+findings: 0
+display filter: min-severity=info | fail-on=high
